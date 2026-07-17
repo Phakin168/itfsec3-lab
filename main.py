@@ -1,4 +1,5 @@
 """phakin"""
 def main():
-    print("Hello LAB 434")
+    print("Hello tenten")
 main()
+ 
